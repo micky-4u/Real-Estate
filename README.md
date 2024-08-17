@@ -28,3 +28,9 @@ This project is a fully responsive real estate website designed and developed to
 1. Clone the repository:
    ```bash
    git clone https://github.com/micky-4u/Real-Estate.git
+
+   cd Real-Estate
+
+   npm i
+
+   npm start
